@@ -31,19 +31,11 @@ Occasionally, I explore graphic design through courses or by experimenting with 
 ---
 
 ## 🛠️ Tech Stack
-- Languages: Java, C, JavaScript, HTML, CSS
-- Frameworks & Libraries: React, Node.js, Express
-- Tools & Platforms: MongoDB, Git, Power BI, Figma
+- Languages : Java, C(Basics)
+- Tools & Platforms:Power BI, Figma
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- [Substack](https://your-substack-link)
-- (Optional) Instagram: [@your-username](https://instagram.com/your-username)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varudhamalabinaya&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
