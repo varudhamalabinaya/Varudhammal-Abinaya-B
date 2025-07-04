@@ -1,4 +1,4 @@
-c I'm Varudhammal Abinaya 
+I'm Varudhammal Abinaya 
 
 I’m a B.Tech Computer Science and Business Systems student at KS Rangasamy College of Technology, Tiruchengode.
 
