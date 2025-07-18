@@ -1,6 +1,12 @@
-I'm Varudhammal Abinaya 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/varudhamalabinaya" width="120" />
+</p>
+<h1 align="center">Hi, I'm Varudhammal Abinaya 👋</h1>
 
-I’m a B.Tech Computer Science and Business Systems student at KS Rangasamy College of Technology, Tiruchengode.
+<p align="center">
+  B.Tech Computer Science and Business Systems  
+  <br>KS Rangasamy College of Technology, Tiruchengode
+</p>
 
 ---
 
@@ -31,11 +37,7 @@ Occasionally, I explore graphic design through courses or by experimenting with 
 ---
 
 ## 🛠️ Tech Stack
-- Languages : Java, C(Basics)
-- Tools & Platforms:Power BI, Figma
+- **Languages**: Java, C (Basics)
+- **Tools & Platforms**: Power BI, Figma, Canva
 
 ---
-
-
----
-
