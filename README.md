@@ -18,7 +18,7 @@
 
 ## 💡 About Me
 I enjoy learning new technologies, writing online, and exploring design tools.  
-I write on [Substack](https://your-substack-link) sharing thoughts and personal reflections.  
+✍️ I also write technical and personal blogs on dev.to to document my learning journey.
 Occasionally, I explore graphic design through courses or by experimenting with tools like Figma and Canva — often guided by ChatGPT!
 
 ---
